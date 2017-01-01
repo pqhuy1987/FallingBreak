@@ -102,7 +102,7 @@
 				TargetAttributes = {
 					056E8BD41C87E6BE00AE3F17 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = M4Q2TE45WT;
+						DevelopmentTeam = JQNK74493B;
 					};
 				};
 			};
@@ -261,8 +261,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = LivSpel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = eu.thirdcog.LivSpel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.fallingbreak.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -275,8 +276,9 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = LivSpel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = eu.thirdcog.LivSpel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.fallingbreak.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
